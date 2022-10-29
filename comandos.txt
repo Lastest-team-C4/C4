@@ -1,0 +1,9 @@
+Crear proyecto react: npx create-react-app my-app
+
+para instalar react y crear carpeta node_modules si hace falta, necesario normalmente despues de pull del repo: npm install
+
+Installar react router(encargado de redireccionar a otras paginas dentro de la app web): npm i react-router-dom
+
+Para iniciar app: npm run start
+
+Para detener app: ctrl+c 
